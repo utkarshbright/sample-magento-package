@@ -3,7 +3,7 @@
      "description": "Surebright test Integration Module",
      "require": {
         "php": ">=7.1.0 <8.5",
-        "magento/framework": "^2.4.7",
+        "magento/framework": "^100.0",
         "magento/module-integration": "^100.0"
      },
      "type": "magento2-module",
