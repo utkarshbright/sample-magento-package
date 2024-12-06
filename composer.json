@@ -2,7 +2,7 @@
      "name": "utkarsh/integration",
      "description": "Surebright test Integration Module",
      "require": {
-        "php": "^7.4||^8.5",
+        "php": ">=7.1.0 <8.5",
         "magento/framework": "2.4.7",
         "magento/module-integration": "2.0.0"
      },
