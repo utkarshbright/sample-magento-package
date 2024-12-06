@@ -2,12 +2,10 @@
      "name": "utkarsh/integration",
      "description": "Surebright test Integration Module",
      "require": {
-        "php": ">=7.1.0 <8.5",
-        "magento/framework": "^100.0",
-        "magento/module-integration": "^100.0"
+        "php": ">=7.1.0 <8.5"
      },
      "type": "magento2-module",
-     "version": "1.0.7",
+     "version": "1.0.8",
      "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
