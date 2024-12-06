@@ -2,7 +2,7 @@
 
 <body>
 <referenceContainer name="after.body.start">
-<block class="Magento\Framework\View\Element\Template" name="custom.footer" template="Utkarsh_Integration::footer.phtml"/>
+<block class="Magento\Framework\View\Element\Template" name="custom.footer" template="MyTestIntegration_1::footer.phtml"/>
 </referenceContainer>
 
 </body>

@@ -1,5 +1,5 @@
 <integrations>
-   <integration name="SurebrightTestIntegration">
+   <integration name="MyTestIntegration_1">
       <email>utkarsh@surebright.com</email>
       <endpoint_url>https://nice-glowworm-blessed.ngrok-free.app/site-platform/api/magento</endpoint_url>
       <identity_link_url>https://merchant.surebright.com/store/login</identity_link_url>

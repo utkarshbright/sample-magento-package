@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <integrations>
-    <integration name="SurebrightTestIntegration">
+    <integration name="MyTestIntegration_1">
         <resources>
             <!-- Backend Access -->
             <resource name="Magento_Backend::admin"/>
