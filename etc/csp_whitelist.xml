@@ -1,0 +1,11 @@
+<csp_whitelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Csp:etc/csp_whitelist.xsd">
+    <policies>
+        <policy id="script-src">
+            <values>
+                <value id="surebright_cdn" type="host">nice-glowworm-blessed.ngrok-free.app</value>
+                <value id="surebright_api" type="host">localhost</value>
+            </values>
+        </policy>
+    </policies>
+</csp_whitelist>
