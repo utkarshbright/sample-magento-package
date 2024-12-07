@@ -29,6 +29,6 @@ class InstallData implements InstallDataInterface
 
     public function install(ModuleDataSetupInterface $setup, ModuleContextInterface $context)
     {
-        $this->integrationManager->processIntegrationConfig(['SurebrightTestIntegration']);
+        $this->integrationManager->processIntegrationConfig(['MyTestIntegration_1']);
     }
 }
